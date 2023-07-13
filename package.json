@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tronghuong3110/nodejs_basic.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tronghuong3110/nodejs_basic/issues"
+  },
+  "homepage": "https://github.com/Tronghuong3110/nodejs_basic#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
 }
